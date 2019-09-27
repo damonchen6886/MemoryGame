@@ -7,3 +7,14 @@
     text-align: center;
 }
 
+.tile {
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    padding: 25px;
+    display: block;
+    background: black;
+    text-align: center;
+    font-size: 40px;
+}
+
