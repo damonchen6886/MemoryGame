@@ -9,12 +9,17 @@
 
 .tile {
     border: 5px solid black;
-    width: 150px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     padding: 25px;
-    display: block;
-    background: black;
+    color: white;
+    display: #696969;
+    background: #00BFFF;
     text-align: center;
     font-size: 40px;
 }
 
+.status{
+	font-size: 40px;
+	color: purple;
+}
