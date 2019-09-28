@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import _ from 'lodash';
 
 //attributes: 
-https://www.youtube.com/watch?v=MLNLT_-mBA0&t=846s
-https://www.w3schools.com/react/react_state.asp
+//https://www.youtube.com/watch?v=MLNLT_-mBA0&t=846s
+//https://www.w3schools.com/react/react_state.asp
 
 
 
