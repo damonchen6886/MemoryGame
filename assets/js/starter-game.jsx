@@ -136,7 +136,7 @@ clickHandler(i) {
     }
 }
    
-// Handles the reset
+// restart
 restart() {
     this.setState({
         tilesObj: this.createValues(),
@@ -169,7 +169,7 @@ render() {
         status = this.state.numClicks;
     }
     else {
-        status = "Good job!";
+        status = "nicely Done!";
     }
 
     return (
